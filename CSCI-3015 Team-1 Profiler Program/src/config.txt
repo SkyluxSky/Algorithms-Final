@@ -1,0 +1,5 @@
+NumberOfMinutes=500
+MaxNumberOfCustomers=1000
+NonGrumpyWindowLength=5
+Customers=69,302,124,642,58,75,446,902,323,597
+Grumpy=1,0,0,1,0,0,0,1,1,1
